@@ -3,9 +3,9 @@
                 <div class="container">
                     <div class="hero-inner">
 						<div class="hero-copy">
-	                        <h1 class="hero-title mt-0">Landing template for startups</h1>
-	                        <p class="hero-paragraph">Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.</p>
-	                        <div class="hero-cta"><a class="button button-primary" href="#">Pre order now</a><a class="button" href="#">Get in touch</a></div>
+	                        <h1 class="hero-title mt-0">Desenvolvedor Web e Mobile</h1>
+	                        <p class="hero-paragraph">Sou Neves Antonio Pilale, apaixonado em programação actualmente estuda curso de Programação Web e Mobile na Explicadora Inc.</p>
+	                        <div class="hero-cta"><a class="button button-primary" href="#">Fale comigo</a><a class="button" href="#">Baixe o meu curriculum</a></div>
 						</div>
 						<div class="hero-figure anime-element">
 							<svg class="placeholder" width="528" height="396" viewBox="0 0 528 396">
@@ -35,7 +35,7 @@
                                     <div class="feature-icon">
 										<img src="{{ asset('template/dist/images/feature-icon-01.svg') }}" alt="Feature 01">
                                     </div>
-                                    <h4 class="feature-title mt-24">Be Productive</h4>
+                                    <h4 class="feature-title mt-24">Meus Projectos</h4>
                                     <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@
                                     <div class="feature-icon">
 										<img src="{{asset('template/dist/images/feature-icon-02.svg')}}" alt="Feature 02">
                                     </div>
-                                    <h4 class="feature-title mt-24">Be Productive</h4>
+                                    <h4 class="feature-title mt-24">Meus Projectos</h4>
                                     <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
                                 </div>
                             </div>
@@ -53,7 +53,7 @@
                                     <div class="feature-icon">
 										<img src="{{asset('template/dist/images/feature-icon-03.svg')}}" alt="Feature 03">
                                     </div>
-                                    <h4 class="feature-title mt-24">Be Productive</h4>
+                                    <h4 class="feature-title mt-24">Meus Projectos</h4>
                                     <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
                                 </div>
                             </div>
@@ -62,7 +62,7 @@
                                     <div class="feature-icon">
 										<img src="{{asset('template/dist/images/feature-icon-04.svg')}}" alt="Feature 04">
                                     </div>
-                                    <h4 class="feature-title mt-24">Be Productive</h4>
+                                    <h4 class="feature-title mt-24">Meus Projectos</h4>
                                     <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
                                 </div>
                             </div>
@@ -71,7 +71,7 @@
                                     <div class="feature-icon">
 										<img src="{{asset('template/dist/images/feature-icon-05.svg')}}" alt="Feature 05">
                                     </div>
-                                    <h4 class="feature-title mt-24">Be Productive</h4>
+                                    <h4 class="feature-title mt-24">Meus Projectos</h4>
                                     <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
                                 </div>
                             </div>
@@ -80,7 +80,7 @@
                                     <div class="feature-icon">
 										<img src="{{asset('template/dist/images/feature-icon-06.svg')}}" alt="Feature 06">
                                     </div>
-                                    <h4 class="feature-title mt-24">Be Productive</h4>
+                                    <h4 class="feature-title mt-24">Meus Projectos</h4>
                                     <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
                                 </div>
                             </div>
@@ -123,8 +123,39 @@
                                         <a class="button button-primary button-shadow button-block" href="#">Pre order now</a>
                                     </div>
                                 </div>
+                                
+                            </div>
+
+                            <div class="pricing-table">
+                                <div class="pricing-table-inner is-revealing">
+                                    <div class="pricing-table-main">
+                                        <div class="pricing-table-header pb-24">
+                                            <div class="pricing-table-price"><span class="pricing-table-price-currency h2">$</span><span class="pricing-table-price-amount h1">49</span><span class="text-xs">/month</span></div>
+                                        </div>
+										<div class="pricing-table-features-title text-xs pt-24 pb-24">What you will get</div>
+                                        <ul class="pricing-table-features list-reset text-xs">
+                                            <li>
+                                                <span>Lorem ipsum dolor sit nisi</span>
+                                            </li>
+                                            <li>
+                                                <span>Lorem ipsum dolor sit nisi</span>
+                                            </li>
+                                            <li>
+                                                <span>Lorem ipsum dolor sit nisi</span>
+                                            </li>
+											<li>
+												<span>Lorem ipsum dolor sit nisi</span>
+											</li>
+                                        </ul>
+                                    </div>
+                                    <div class="pricing-table-cta mb-8">
+                                        <a class="button button-primary button-shadow button-block" href="#">Pre order now</a>
+                                    </div>
+                                </div>
+                                
                             </div>
                         </div>
+                        
                     </div>
                 </div>
             </section>

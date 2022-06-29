@@ -3,7 +3,13 @@
                 <div class="site-footer-inner">
                     <div class="brand footer-brand">
 						<a href="#">
-							<img class="header-logo-image" src="{{asset('template/dist/images/logo.svg')}}" alt="Logo">
+							<img
+                                class="header-logo-image"
+                                src="{{asset('template/dist/images/logo.png')}}"
+                                alt="Logo"
+                                width="60"
+                                height="60"
+                            >
 						</a>
                     </div>
                     <ul class="footer-links list-reset">
@@ -46,7 +52,7 @@
                             </a>
                         </li>
                     </ul>
-                    <div class="footer-copyright">&copy; 2019 Solid, all rights reserved</div>
+                    <div class="footer-copyright">&copy; 2022 Todos os direitos reservados by Neves</div>
                 </div>
             </div>
         </footer>
