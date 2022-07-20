@@ -6,7 +6,7 @@
 					<a href="#">
 						<img
                             class="header-logo-image"
-                            src="{{ asset('template/dist/images/logo.png') }}"
+                            src="{{ asset('template/dist/images/app-icon.png') }}"
                             alt="Logo"
                             width="60"
                             height="60"
